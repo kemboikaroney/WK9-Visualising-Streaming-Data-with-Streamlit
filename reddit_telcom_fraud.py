@@ -66,5 +66,3 @@ plt.figure(figsize=(10, 5))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
 st.pyplot()
-
-# Add any other elements or sections to the Streamlit application as needed
